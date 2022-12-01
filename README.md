@@ -1,1 +1,1 @@
-# advent-of-code-2022
+# This is my repository containing the solutions for the 2022 Advent of Code.
